@@ -8,6 +8,7 @@ ol,ul { list-style: none; }
 a { outline:0; text-decoration:none; color:#bbb;}
 img { border:0;}
 body { position:fixed;  width:100%; height:100%; background:#111;}
+.test {border:1px solid red;}
 
 
 
